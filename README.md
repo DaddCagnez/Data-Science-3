@@ -1,6 +1,6 @@
 # Data-Science-3
 The datasets used are:
-https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data (Provided by prof)
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data (Provided by professors)
 https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities (Found by me)
 
 Files order:
